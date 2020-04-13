@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "Buck 45V vers 24/12V 13A"
+Date "2020-04-12"
+Rev "V0"
+Comp "INSA GEI"
+Comment1 "LERAT MAIER"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -768,7 +768,7 @@ U 1 1 5E7B1645
 P 9000 2900
 F 0 "U1" V 9467 2900 50  0000 C CNN
 F 1 "Relay_1CT" V 9376 2900 50  0000 C CNN
-F 2 "Relay_THT:Relay_StandexMeder_DIP_LowProfile" H 9350 2850 50  0001 L CNN
+F 2 "CmpAmpliAudio:Relay" H 9350 2850 50  0001 L CNN
 F 3 "https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf" H 9000 2900 50  0001 C CNN
 	1    9000 2900
 	0    -1   -1   0   
