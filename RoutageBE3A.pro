@@ -1,6 +1,6 @@
-update=13/04/2020 12:12:47
+update=16/04/2020 11:26:52
 version=1
-last_client=kicad
+last_client=pcbnew
 [general]
 version=1
 RootSch=
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=RoutageBE3A.net
+LastNetListRead=RoutageBE3A2.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
